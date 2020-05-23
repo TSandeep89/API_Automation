@@ -36,6 +36,7 @@ public class ReadWritejsondata {
 		.when()
 		.post("http://localhost:3000/employees");
 		System.out.println("status code" +res.statusCode());
+		System.out.println("test");
 		
 		
 		
