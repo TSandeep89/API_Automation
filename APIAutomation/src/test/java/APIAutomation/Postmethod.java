@@ -1,4 +1,4 @@
-package APIAutomation.APIAutomation;
+package APIAutomation;
 
 import static com.jayway.restassured.RestAssured.given;
 
